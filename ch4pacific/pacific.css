@@ -1,0 +1,23 @@
+body {
+  background-color: #fff;
+  color: #555;
+}
+header {
+  background-color: #FAE283;
+  color: #555;
+}
+nav {
+  background-color: #42D6CC;
+}
+h1{
+  margin-bottom: 0;
+}
+h2 {
+  color: #3B7AAD;
+}
+dt {
+  color: #002171;
+}
+.resort {
+  color: #3B7AAD;
+}
