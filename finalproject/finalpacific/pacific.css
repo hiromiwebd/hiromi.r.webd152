@@ -321,6 +321,9 @@ video {
     display: flex;
     flex-direction: column;
   }
+  .btn{
+    padding-bottom: 2em;
+  }
   #who {
     display: flex;
     flex-direction: column;
